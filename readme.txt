@@ -1,1 +1,3 @@
 ReadMe File for Git Hub
+
+Information for project first
